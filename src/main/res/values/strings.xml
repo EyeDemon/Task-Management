@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Management</string>
+
+    <!-- Activities -->
+    <string name="activity_main">Task Management</string>
+    <string name="activity_login">Đăng Nhập</string>
+    <string name="activity_register">Đăng Ký</string>
+    <string name="activity_task_list">Danh Sách Công Việc</string>
+    <string name="activity_add_task">Thêm Công Việc</string>
+    <string name="activity_edit_task">Chỉnh Sửa Công Việc</string>
+
+    <!-- Login -->
+    <string name="login_title">Đăng Nhập</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="btn_login">Đăng Nhập</string>
+    <string name="no_account">Chưa có tài khoản?</string>
+    <string name="register_here">Đăng ký</string>
+
+    <!-- Register -->
+    <string name="register_title">Đăng Ký</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="btn_register">Đăng Ký</string>
+    <string name="have_account">Đã có tài khoản?</string>
+    <string name="login_here">Đăng nhập</string>
+
+    <!-- Task -->
+    <string name="title">Tiêu Đề</string>
+    <string name="description">Mô Tả</string>
+    <string name="category">Danh Mục</string>
+    <string name="priority">Mức Ưu Tiên</string>
+    <string name="due_date">Ngày Hạn</string>
+    <string name="status">Trạng Thái</string>
+    <string name="btn_add">Thêm</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_update">Cập Nhật</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_edit">Chỉnh Sửa</string>
+    <string name="btn_logout">Đăng Xuất</string>
+
+    <!-- Messages -->
+    <string name="msg_success">Thành công</string>
+    <string name="msg_error">Lỗi</string>
+    <string name="msg_task_added">Công việc đã được thêm</string>
+    <string name="msg_task_updated">Công việc đã được cập nhật</string>
+    <string name="msg_task_deleted">Công việc đã được xóa</string>
+    <string name="msg_login_success">Đăng nhập thành công</string>
+    <string name="msg_register_success">Đăng ký thành công</string>
+    <string name="msg_invalid_input">Vui lòng điền đầy đủ thông tin</string>
+
+</resources>

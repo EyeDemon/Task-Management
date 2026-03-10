@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark_color">#1976D2</color>
+    <color name="accent_color">#FF5252</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#424242</color>
+
+    <color name="red">#FF5252</color>
+    <color name="green">#4CAF50</color>
+    <color name="yellow">#FFC107</color>
+    <color name="blue">#2196F3</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#FF5252</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_low">#4CAF50</color>
+
+    <!-- Task Status Colors -->
+    <color name="status_pending">#FF9800</color>
+    <color name="status_completed">#4CAF50</color>
+
+</resources>

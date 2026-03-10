@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>Công Việc</item>
+        <item>Cá Nhân</item>
+        <item>Mua Sắm</item>
+        <item>Sức Khỏe</item>
+        <item>Học Tập</item>
+        <item>Khác</item>
+    </string-array>
+
+    <string-array name="priorities">
+        <item>Thấp</item>
+        <item>Trung Bình</item>
+        <item>Cao</item>
+    </string-array>
+
+    <string-array name="statuses">
+        <item>Đang Chờ</item>
+        <item>Hoàn Thành</item>
+    </string-array>
+</resources>
